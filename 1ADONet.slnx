@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/AdoNetProject/">
+    <Project Path="University.Application/University.Application.csproj" />
+    <Project Path="University.Domain/University.Domain.csproj" />
+    <Project Path="University.Infrastructure/University.Infrastructure.csproj" />
+    <Project Path="University.Presentation/University.Presentation.csproj" />
+  </Folder>
+  <Project Path="1ADONet/1ADONet.csproj" />
+</Solution>
