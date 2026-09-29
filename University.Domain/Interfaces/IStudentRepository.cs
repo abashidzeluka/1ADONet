@@ -10,5 +10,8 @@ namespace University.Domain.Interfaces
         IEnumerable<Student> GetAll();
         Student GetById(int id);
         bool Add(Student student);
+        bool Update(Student student);
+        bool Delete(int id);
+
     }
 }
